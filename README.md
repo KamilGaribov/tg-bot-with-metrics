@@ -1,0 +1,1 @@
+This is a accelerometer/gyroscope telegram bot. It provides a mobile only website which is able to measure metrics.
